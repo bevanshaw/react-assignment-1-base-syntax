@@ -1,10 +1,10 @@
-Assignment I
+# Assignment I
  - Basics of react.
  - Passing props and looping
  - Event handling and passing event references to props
 
 
-This project was bootstrapped with Create React App.
+This project was bootstrapped with https://github.com/facebook/create-react-app.
 
 Available Scripts
 In the project directory, you can run:
