@@ -1,0 +1,10 @@
+.UserInput{
+    width: 60%;
+    margin: 16px auto;
+    padding: 20px;
+    border: 0 2px 10px #15b693;
+    text-align: center;
+    box-shadow: 0 2px 3px #ff3c00;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+

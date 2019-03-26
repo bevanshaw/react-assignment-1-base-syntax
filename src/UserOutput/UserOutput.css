@@ -1,0 +1,9 @@
+.UserOutput{
+    width: 60%;
+    padding: 20px;
+    margin: 16px auto;
+    border: 0 2px 3px #e521ff;
+    text-align: center;
+    box-shadow: 0 2px 3px #0021ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
